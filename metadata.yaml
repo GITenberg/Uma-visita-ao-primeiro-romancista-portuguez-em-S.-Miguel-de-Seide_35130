@@ -1,0 +1,29 @@
+_repo: Uma-visita-ao-primeiro-romancista-portuguez-em-S.-Miguel-de-Seide_35130
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pimentel, Alberto
+    alias: Pimentel, Alberto Augusto de Almeida
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '25371'
+    url: http://www.gutenberg.org/2009/agents/25371
+    wikipedia: http://pt.wikipedia.org/wiki/Alberto_Pimentel
+description: ''
+gutenberg_issued: '2011-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35130'
+  lccn: '33033585'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castelo Branco, Camilo, 1825-1890'
+- !lcc 'PQ'
+title: Uma visita ao primeiro romancista portuguez em S. Miguel de Seide
+url: http://www.gutenberg.org/ebooks/35130
